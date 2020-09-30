@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crocodile", "Crocodile\Crocodile.csproj", "{135892BB-1A30-46BE-A38C-E313FCCE598A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib", "ClassLib\ClassLib.csproj", "{F39ABD43-2E06-44B9-A439-BED66EC2F56E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer", "ChatServer\ChatServer.csproj", "{AC99F91A-2369-4667-9F57-FE22DF31DBBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135892BB-1A30-46BE-A38C-E313FCCE598A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135892BB-1A30-46BE-A38C-E313FCCE598A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135892BB-1A30-46BE-A38C-E313FCCE598A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135892BB-1A30-46BE-A38C-E313FCCE598A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39ABD43-2E06-44B9-A439-BED66EC2F56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39ABD43-2E06-44B9-A439-BED66EC2F56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39ABD43-2E06-44B9-A439-BED66EC2F56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39ABD43-2E06-44B9-A439-BED66EC2F56E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC99F91A-2369-4667-9F57-FE22DF31DBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC99F91A-2369-4667-9F57-FE22DF31DBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC99F91A-2369-4667-9F57-FE22DF31DBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC99F91A-2369-4667-9F57-FE22DF31DBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6301276A-1692-4B02-AED2-35EDCC08EFE3}
+	EndGlobalSection
+EndGlobal
